@@ -1,6 +1,8 @@
 import { isEqual } from 'date-fns';
 import Appointment from '../models/Appointment';
 
+// Descrição: Trabalha com o dado descrito no model e vai criar, listar, deletar, atualizar, etc
+
 // DTO - Data Transfer Object
 
 interface CreateAppointmentDTO {

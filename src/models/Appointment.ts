@@ -1,5 +1,7 @@
 import { uuid } from 'uuidv4';
 
+// Descrição: Forma que um dado é salvo na aplicação
+
 class Appointment {
   id: string;
 
